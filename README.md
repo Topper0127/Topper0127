@@ -6,7 +6,7 @@ I’m a fan of R, Python, Shell and Bioinfomatics. 🔭 I am a PhD student of Cr
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YTLogos&show_icons=true&theme=synthwave)](https://github.com/YTLogos/YTLogos)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Topper0127&show_icons=true&theme=synthwave)](https://github.com/Topper0127/Topper0127)
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Topper0127&repo=nextjs-firebase-authentication)](https://github.com/Topper0127/nextjs-firebase-authentication)
@@ -15,9 +15,8 @@ I’m a fan of R, Python, Shell and Bioinfomatics. 🔭 I am a PhD student of Cr
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Topper0127&repo=Selenium-Automation)](https://github.com/Topper0127/Selenium-Automation)
 
 
-> NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+> NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/Topper0127/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YTLogos&layout=compact)](https://github.com/Topper0127)
 
 
 ### Contact me
