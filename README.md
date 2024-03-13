@@ -9,7 +9,7 @@ I’m a fan of R, Python, Shell and Bioinfomatics. 🔭 I am a PhD student of Cr
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YTLogos&show_icons=true&theme=synthwave)](https://github.com/YTLogos/YTLogos)
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YTLogos&repo=BnaSNPDB)](https://github.com/Topper0127/nextjs-firebase-authentication)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Topper0127&repo=nextjs-firebase-authentication)](https://github.com/Topper0127/nextjs-firebase-authentication)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YTLogos&repo=BnaGWAS)](https://github.com/Topper0127/nextjs-firebase-authentication)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YTLogos&repo=TaoYan)](https://github.com/Topper0127/nextjs-firebase-authentication)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YTLogos&repo=ttplot)](https://github.com/Topper0127/nextjs-firebase-authentication)
