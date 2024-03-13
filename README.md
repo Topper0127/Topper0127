@@ -9,10 +9,10 @@ I’m a fan of R, Python, Shell and Bioinfomatics. 🔭 I am a PhD student of Cr
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YTLogos&show_icons=true&theme=synthwave)](https://github.com/YTLogos/YTLogos)
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YTLogos&repo=BnaSNPDB)](https://github.com/YTLogos/BnaSNPDB)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YTLogos&repo=BnaGWAS)](https://github.com/YTLogos/BnaGWAS)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YTLogos&repo=TaoYan)](https://github.com/YTLogos/TaoYan)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YTLogos&repo=ttplot)](https://github.com/YTLogos/ttplot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YTLogos&repo=BnaSNPDB)](https://github.com/Topper0127/nextjs-firebase-authentication)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YTLogos&repo=BnaGWAS)](https://github.com/Topper0127/nextjs-firebase-authentication)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YTLogos&repo=TaoYan)](https://github.com/Topper0127/nextjs-firebase-authentication)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=YTLogos&repo=ttplot)](https://github.com/Topper0127/nextjs-firebase-authentication)
 
 
 > NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
