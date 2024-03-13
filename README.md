@@ -2,12 +2,6 @@
 
 <br />
 
-I’m a fan of R, Python, Shell and Bioinfomatics. 🔭 I am a PhD student of Crop Genetics and Breeding at the @Zhejiang University Crop Science Lab. 🌱  My Ph.D research work covers a range of issues : Population Genetics Evolution and Ecotype Divergence Analysis of oilseed Rape, Genome-wide Association Study (GWAS) of Agronomic Traits. Currently, I am interested in Transposable Elements Insertion Polymorphisms (TIPs) in Crop Population and genetic basis such as SV, CNV and TIPs etc shapes the diversity of different morphotypes of *B.napus*.
-
-
-
-[![Topper's github stats](https://github-readme-stats.vercel.app/api?username=Topper0127&show_icons=true&theme=synthwave)](https://github.com/Topper0127/Topper0127)
-
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Topper0127&repo=nextjs-firebase-authentication)](https://github.com/Topper0127/nextjs-firebase-authentication)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Topper0127&repo=nextjs-subscription-payments)](https://github.com/Topper0127/nextjs-subscription-payments)
