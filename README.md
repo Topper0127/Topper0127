@@ -6,7 +6,7 @@ I’m a fan of R, Python, Shell and Bioinfomatics. 🔭 I am a PhD student of Cr
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Topper0127&show_icons=true&theme=synthwave)](https://github.com/Topper0127/Topper0127)
+[![Topper's github stats](https://github-readme-stats.vercel.app/api?username=Topper0127&show_icons=true&theme=synthwave)](https://github.com/Topper0127/Topper0127)
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Topper0127&repo=nextjs-firebase-authentication)](https://github.com/Topper0127/nextjs-firebase-authentication)
